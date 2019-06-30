@@ -1,8 +1,8 @@
 # Überauth Typetalk strategy Example
 [![Build Status][travis-img]][travis] [![License][license-img]][license]
 
-[travis-img]: https://travis-ci.org/is2ei/ueberauth_typetalk_example.svg?branch=master
-[travis]: https://travis-ci.org/is2ei/ueberauth_typetalk_example
+[travis-img]: https://travis-ci.com/is2ei/ueberauth_typetalk_example.svg?branch=master
+[travis]: https://travis-ci.com/is2ei/ueberauth_typetalk_example
 [license-img]: http://img.shields.io/badge/license-MIT-brightgreen.svg
 [license]: http://opensource.org/licenses/MIT
 
